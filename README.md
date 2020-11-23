@@ -1,24 +1,19 @@
-# README
+# Moviee
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## What is Movieee
 
-Things you may want to cover:
+It's a website for users to browser trending movies.
 
-* Ruby version
+## Demo
 
-* System dependencies
+### Front-End
 
-* Configuration
+Moviee is built using React as its front-end framework.
 
-* Database creation
+React hooks as well as Redux are utilized in order to manage stateful logic and to create a cohesive UX.
 
-* Database initialization
+### Back-end(Link)
 
-* How to run the test suite
+Moviee's API is built with Ruby on Rails, utilizing PostgreSQL for its database.
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+NewsMe gathers the trending movies from TMDB Api
