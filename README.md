@@ -1,6 +1,6 @@
 # Moviee
 
-## What is Movieee
+## What is Moviee
 
 It's a website for users to browser trending movies.
 
