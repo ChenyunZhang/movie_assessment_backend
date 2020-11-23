@@ -6,7 +6,7 @@ Moviee is a website for users to browser trending movies.
 
 ## Demo
 
-### Front-End[Repo](https://github.com/ChenyunZhang/movie_assessment_front)
+### [Front-End](https://github.com/ChenyunZhang/movie_assessment_front)
 
 - Moviee is built using React as its front-end framework.
 
