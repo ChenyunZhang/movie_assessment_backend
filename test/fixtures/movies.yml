@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  poster: MyString
+  original_Language: MyString
+  overview: MyString
+  release: MyString
+  adult: false
+
+two:
+  poster: MyString
+  original_Language: MyString
+  overview: MyString
+  release: MyString
+  adult: false
